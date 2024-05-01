@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img src=”(https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRRto3IlY56MlAIOAvXHvPEVxBDVzG1uz1zULEBYdJ-I4Aa-xOyPEVvv7fmIjLnxaOz)”>
 <!-- 
 **Samir-2024/Samir-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
